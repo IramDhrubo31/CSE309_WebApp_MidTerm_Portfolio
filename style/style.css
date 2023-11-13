@@ -43,3 +43,38 @@ hr{
 footer{
     background-color: #ef492c;
 }
+
+.redColor{
+    color: red;
+    font-weight: 800;
+    font-size: 24px;
+}
+.crimsonColor{
+    color: crimson;
+    font-weight: 700;
+}
+
+#education .card{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif;
+    color: #1f1f1f;
+    border: 1px solid #ef492c;
+    border-left: 5px solid #ef492c;
+}
+
+#education .card h2,#education .card h4{
+    text-align: center;
+}
+#education .card p{
+    font-size: 24px;
+}
+.accordion-body{
+    color: black;
+    padding: 1.5rem;
+}
+.card-subtitle{
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+.card-text{
+    color: black;
+}
